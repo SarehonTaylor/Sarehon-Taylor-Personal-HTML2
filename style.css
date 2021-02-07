@@ -46,6 +46,11 @@
 
   
   }
+  .portfolioicon:hover{
+    background:rgb(6, 215, 252);
+   
+  }
+  
     
   .contactme{
     color: #426696;
